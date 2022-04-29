@@ -1,0 +1,164 @@
+0:
+  event: "gtm.js"
+  gtm.start: 1651195054905
+  gtm.uniqueEventId: 3
+  [[Prototype]]: Object
+1:
+  event: "gtm.dom"
+  gtm.uniqueEventId: 4
+  [[Prototype]]: Object
+2:
+  country: "gt"
+  event: "gtm.view_confirmacion"
+  gtm.uniqueEventId: 5
+  [[Prototype]]: Object
+3:
+  event: "gtm.js"
+  gtm.start: 1651195055411
+  gtm.uniqueEventId: 6
+  [[Prototype]]: Object
+4:
+  event: "gtm.scrollDepth"  
+  gtm.scrollDirection: "vertical"
+  gtm.scrollThreshold: 90
+  gtm.scrollUnits: "percent"
+  gtm.triggers: "11"
+  gtm.uniqueEventId: 13 
+  [[Prototype]]: Object
+5:
+  event: "gtm.load"
+  gtm.uniqueEventId: 14
+  [[Prototype]]: Object
+6:
+  country: "gt"
+  event: "gtm.ga_venta"
+  gtm.uniqueEventId: 16
+  tg_forma_pago: "Tarjeta de credito"
+  tg_idpaquete: "01746d8f-7e8a-4886-ae30-51834e90b62a"
+  tg_paquete: "ESB_Credit_5"
+  tg_precio_producto: 5
+  tg_telefono: "50241591449"
+  tg_tipo_moneda: 1
+  tg_tipousuario: "Prepago"
+  tg_transaccion: "0061361738"  
+  tg_userid: "PNM#50241591449"
+  [[Prototype]]: Object
+7:
+  country: "gt"
+  ecommerce: {purchase: {…}}
+  event: "gtm.TransaccionFinal"
+  gtm.uniqueEventId: 17
+  [[Prototype]]: Object
+  8: Arguments(3)
+  0: "event"
+  1: "conversion"
+  2: {send_to: 'AW-967409209/87gRCIL376IBELn8pc0D', value: 5, currency: 'GTQ', transaction_id: '0061361738'}
+  callee: ƒ gtag()
+  gtm.uniqueEventId: 18
+  length: 3
+  Symbol(Symbol.iterator): ƒ values()
+  [[Prototype]]: Object
+  9:
+  country: "gt"
+  event: "gtm.ga_view"
+  gtm.uniqueEventId: 19
+  view: "Success Purchase"
+  [[Prototype]]: Object
+10:
+  event: "Purchase"
+  gtm.uniqueEventId: 21
+  idpaquete: "01746d8f-7e8a-4886-ae30-51834e90b62a"
+  metodopago: "Tarjeta de credito"
+  moneda: "GTQ"
+  nombrepaquete: "ESB_Credit_5"
+  valor: 5
+  [[Prototype]]: Object
+  push: ƒ ()
+  arguments: null
+  caller: null
+  length: 0
+  name: ""
+  prototype:
+  constructor: ƒ ()
+  [[Prototype]]: Object
+  [[FunctionLocation]]: js?id=AW-967409209&l=dataLayer&cx=c:252
+  [[Prototype]]: ƒ ()
+  apply: ƒ apply()
+  arguments: (...)
+  bind: ƒ bind()
+  call: ƒ call()
+  caller: (...)
+  constructor: ƒ Function()
+  length: 0
+  name: ""
+  toString: ƒ ()
+  Symbol(Symbol.hasInstance): ƒ [Symbol.hasInstance]()
+  get arguments: ƒ ()
+  set arguments: ƒ ()
+  get caller: ƒ ()
+  set caller: ƒ ()
+  [[FunctionLocation]]: ​
+  [[Prototype]]: Object
+  constructor: ƒ Object()
+  hasOwnProperty: ƒ hasOwnProperty()
+  isPrototypeOf: ƒ isPrototypeOf()
+  propertyIsEnumerable: ƒ propertyIsEnumerable()
+  toLocaleString: ƒ toLocaleString()
+  toString: ƒ toString()
+  valueOf: ƒ valueOf()
+  __defineGetter__: ƒ __defineGetter__()
+  __defineSetter__: ƒ __defineSetter__()
+  __lookupGetter__: ƒ __lookupGetter__()
+  __lookupSetter__: ƒ __lookupSetter__()
+  __proto__: (...)
+  get __proto__: ƒ __proto__()
+  set __proto__: ƒ __proto__()
+  [[Scopes]]: Scopes[0]
+  No hay ninguna propiedad
+  [[Scopes]]: Scopes[3]
+  0: Closure (dq) {a: Array(11), b: {…}, c: ƒ}
+  1: Closure {oe: {…}, Hf: ƒ, gk: ƒ, bk: ƒ, No: ƒ, …}
+  2: Global {0: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+  length: 11
+  [[Prototype]]: Array(0)
+  at: ƒ at()
+  concat: ƒ concat()
+  constructor: ƒ Array()
+  copyWithin: ƒ copyWithin()
+  entries: ƒ entries()
+  every: ƒ every()
+  fill: ƒ fill()
+  filter: ƒ filter()
+  find: ƒ find()
+  findIndex: ƒ findIndex()
+  findLast: ƒ findLast()
+  findLastIndex: ƒ findLastIndex()
+  flat: ƒ flat()
+  flatMap: ƒ flatMap()
+  forEach: ƒ forEach()
+  includes: ƒ includes()
+  indexOf: ƒ indexOf()
+  join: ƒ join()
+  keys: ƒ keys()
+  lastIndexOf: ƒ lastIndexOf()
+  length: 0
+  map: ƒ map()
+  pop: ƒ pop()
+  push: ƒ push()
+  reduce: ƒ reduce()
+  reduceRight: ƒ reduceRight()
+  reverse: ƒ reverse()
+  shift: ƒ shift()
+  slice: ƒ slice()
+  some: ƒ some()
+  sort: ƒ sort()
+  splice: ƒ splice()
+  toLocaleString: ƒ toLocaleString()
+  toString: ƒ toString()
+  unshift: ƒ unshift()
+  values: ƒ values()
+  Symbol(Symbol.iterator): ƒ values()
+  Symbol(Symbol.unscopables): {copyWithin: true, entries: true, fill: true, find: true, findIndex: true, …}
+  Symbol(values): ƒ ()
+  Symbol(values): ƒ ()
+  [[Prototype]]: Object
